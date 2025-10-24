@@ -28,10 +28,10 @@ https://github.com/TashuAgrahari/Super-Store-Sales-Forecast-Dashboard/blob/main/
 This dashboard is a powerful high-level summary, fully interactive and filterable by Region (Central, East, South, West).
 
 1. KPI Cards: At-a-glance metrics for overall performance:
-  1. Profit
-  2. Sales
-  3. Quantity
-  4. Avg. Delivery Date
+    . Profit
+    . Sales
+    . Quantity
+    . Avg. Delivery Date
 
 2. Geospatial Analysis: An interactive "Sales and Profit by State" map provides a clear visual of geographic hotspots.
 
@@ -57,6 +57,7 @@ This dashboard is a powerful high-level summary, fully interactive and filterabl
 3. Historical Sales Trend: A line chart displays the complete sales history for the selected state from 2018 to 2021.
 
 6. 15-Day Sales Forecast:
+   
      This visual shows recent historical sales data (Aug 2020 - Jan 2021) and projects a 15-day sales forecast.
      
      The forecast includes upper and lower confidence bounds, providing a realistic range of expected sales.
@@ -64,6 +65,6 @@ This dashboard is a powerful high-level summary, fully interactive and filterabl
      This allows managers to make data-driven decisions regarding inventory, staffing, and marketing for the upcoming weeks.
      
 # Technical Details
-  Tool: Power BI Desktop
-  Visualizations: KPI Cards, Donut Charts, Bar Charts, Line Charts, Filled Map, Time-Series Forecasting.
-  Interactivity: Slicers, Cross-filtering (visuals interact with each other), and Drill-down.
+  1. Tool: Power BI Desktop
+  2. Visualizations: KPI Cards, Donut Charts, Bar Charts, Line Charts, Filled Map, Time-Series Forecasting.
+  3. Interactivity: Slicers, Cross-filtering (visuals interact with each other), and Drill-down.
