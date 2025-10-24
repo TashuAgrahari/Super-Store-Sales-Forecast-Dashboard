@@ -28,23 +28,28 @@ https://github.com/TashuAgrahari/Super-Store-Sales-Forecast-Dashboard/blob/main/
 This dashboard is a powerful high-level summary, fully interactive and filterable by Region (Central, East, South, West).
 
 1. KPI Cards: At-a-glance metrics for overall performance:
+   
     . Profit
+   
     . Sales
+   
     . Quantity
+   
     . Avg. Delivery Date
 
-2. Geospatial Analysis: An interactive "Sales and Profit by State" map provides a clear visual of geographic hotspots.
+3. Geospatial Analysis: An interactive "Sales and Profit by State" map provides a clear visual of geographic hotspots.
 
-3. Performance by Segment: A donut chart breaks down sales by Consumer, Corporate, and Home Office segments.
+4. Performance by Segment: A donut chart breaks down sales by Consumer, Corporate, and Home Office segments.
 
-4. Customer Behavior:
+5. Customer Behavior:
     "Sales by Payment Mode" (e.g., Cards, COD) shows how customers are paying.
     
     "Sales by Ship Mode" (e.g., Standard Class, Second Class) highlights the most used shipping options.
 
-5. Product Performance: A "Sales by Category & Subcategory" bar chart identifies top-performing product lines.
+6. Product Performance: A "Sales by Category & Subcategory" bar chart identifies top-performing product lines.
 
-6. Year-over-Year (YoY) Trend Analysis:
+7. Year-over-Year (YoY) Trend Analysis:
+   
      Monthly Sales YoY: A line chart compares monthly sales for the selected years (2018-2020), making it easy to spot seasonal trends and growth.
      
      Monthly Profit YoY: A corresponding line chart tracks profit trends over the same period.
