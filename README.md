@@ -16,12 +16,12 @@ The report is divided into two main pages: a Main Sales Dashboard for a high-lev
 ## Main Sales Dashboard (Page 1)
 This page provides a 360-degree view of the superstore's KPIs and sales breakdowns.
 
-![Dashboard Preview]https://github.com/TashuAgrahari/Super-Store-Sales-Forecast-Dashboard/blob/main/sales%20dashboard.png
+https://github.com/TashuAgrahari/Super-Store-Sales-Forecast-Dashboard/blob/main/sales%20dashboard.png
 
 ## Sales Forecast Dashboard (Page 2)
 This page is dedicated to time-series analysis, allowing users to select a state and view its historical sales data and a 15-day forward-looking forecast.
 
-![Dashboard Preview]https://github.com/TashuAgrahari/Super-Store-Sales-Forecast-Dashboard/blob/main/forecast%20dashboard.png
+https://github.com/TashuAgrahari/Super-Store-Sales-Forecast-Dashboard/blob/main/forecast%20dashboard.png
 
 # Key Features & In-Depth Analysis
 ## Page 1: Main Sales Dashboard
